@@ -1,0 +1,31 @@
+{
+  "name": "ui-prototype-boilerplate",
+  "version": "0.0.0",
+  "description": "Node.js based UI Prototype Boilerplate",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woneob/ui-prototype-boilerplate.git"
+  },
+  "keywords": [
+    "ui",
+    "prototype",
+    "boilerplate"
+  ],
+  "author": "1UP <1up@interpark.com>",
+  "contributors": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/woneob/ui-prototype-boilerplate/issues"
+  },
+  "homepage": "https://github.com/woneob/ui-prototype-boilerplate#readme",
+  "engines": {
+    "node": ">=4.x.x"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
