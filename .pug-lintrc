@@ -30,7 +30,13 @@
   "requireSpacesInsideAttributeBrackets": null,
   "requireSpecificAttributes": [
     {
-      "img": "alt"
+      "img": [
+        "alt",
+        "src"
+      ]
+    },
+    {
+      "a": "href"
     }
   ],
    "requireStrictEqualityOperators": true,
