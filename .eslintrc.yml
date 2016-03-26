@@ -30,7 +30,10 @@ rules:
 
   semi:
     - 2
-    - always
+
+  one-var:
+    - 2
+    - never
 
   linebreak-style:
     - 2
